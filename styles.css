@@ -1,8 +1,17 @@
 div#test{
-    border:#000 1px solid;
+    border:#000 10px solid;
     padding:10px 40px 40px 40px;
+    text-align: center;
 }
 
 html{
-    background: beige;
+    background: aliceblue;
+}
+
+h2{
+    text-align: center;
+}
+
+.footnote{
+    text-align: center;
 }

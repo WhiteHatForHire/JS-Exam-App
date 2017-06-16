@@ -1,6 +1,6 @@
 var questions = [
-    [ "What is 10 + 4?", "12", "14", "16", "B" ],
-    [ "What is 10 + 3?", "13", "14", "16", "A" ],
-    [ "What is 10 + 2?", "14", "16", "12", "C" ],
-    [ "What is 10 + 1?", "11", "14", "16", "A" ]
+    [ "What is the name of red earthenware pottery, which remains porous when unglazed?", "Chinese Earthenware", "Terracotta", "Porcelain", "B" ],
+    [ "In Japanese, what is the word for goodbye?", "Sayonara", "Ohayō gozaimasu", "Konbanwa", "A" ],
+    [ "What is the French blue cheese made from ewe's milk?", "Dolcelatte", "Bleu d'Auvergne", "Roquefort", "C" ],
+    [ "In PHP, what is the command to output one or more strings?", "Echo", "Println", "COUT", "A" ]
 ];
